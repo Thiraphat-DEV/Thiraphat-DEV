@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Thiraphat-DEV
-- 👀 I’m interested in ProblemSolve Programming
+- 👀 I’m interested in ProblemSolve Programming And Technology
 - 🌱 I’m currently learning  frontend && backend Devoloper
-- 💞️ I’m looking to collaborate on The Future
-- 📫 Pancn line 
+- 📫 NEVER STOP LEARN
 JUST DO IT! FOR LIFE
 
 <!---
