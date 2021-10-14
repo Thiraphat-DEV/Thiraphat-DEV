@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Thiraphat-DEV
-- 👀 I’m interested in ProblemSolve Programming And Technology
-- 🌱 I’m currently learning  frontend && backend Devoloper
-- 📫 NEVER STOP LEARN
-JUST DO IT! FOR LIFE
+                                                                     I’m @Thiraphat-DEV
+                                I’m interested in New Technology And I’m currently learning  frontend && backend Devoloper
+                                                   I NEVER STOP LEARNING FOR TECH  I WATCHING TO COMEDY FOR FUN 
+                                                                       I HATE PLAN B
 
 <!---
 Thiraphat-DEV/Thiraphat-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
