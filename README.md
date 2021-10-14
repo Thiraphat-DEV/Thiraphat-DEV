@@ -19,11 +19,11 @@ Skills And Exprience
 
 ![Thiraphat-DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-DEV&theme=panda&show_icons=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Thiraphat-DEV/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiraphat-DEV&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Thiraphat-DEV/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiraphat-DEV&repo=convoychat" />
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/Thiraphat-DEV)  
