@@ -20,10 +20,10 @@ Skills And Exprience
 ![Thiraphat-DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-DEV&theme=panda&show_icons=true)
 
 <a href="https://github.com/Thiraphat-DEV/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiraphat-DEV&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiraphat-DEV&repo=StaticPage" />
 </a>
 <a href="https://github.com/Thiraphat-DEV/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiraphat-DEV&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiraphat-DEV&repo=INTERSECTIONofNumber" />
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/Thiraphat-DEV)  
