@@ -17,7 +17,7 @@ Skills And Exprience
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-DEV)](https://github.com/anuraghazra/github-readme-stats)
 
-![Thiraphat-DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=panda&show_icons=true)
+![Thiraphat-DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-DEV&theme=panda&show_icons=true)
  
 
 ![Profile views](https://gpvc.arturio.dev/Thiraphat-DEV)  
