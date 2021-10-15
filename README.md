@@ -25,7 +25,7 @@ Skills And Exprience
 <!-- <img alt="framermotion" height="26x" style="margin: 15px 15px" src="./skills/framermotion.png" /> -->
 
 
-<img alt="nodejs" height="26x" style="margin: 15px 15px" src="./skills/nodejs.svg" />
+<img alt="nodejs" height="26x" style="margin: 15px 15px" src="nodejs.svg" />
 
 <img alt="express" height="26x" style="margin: 15px 15px" src="./skills/express.svg" />
 
