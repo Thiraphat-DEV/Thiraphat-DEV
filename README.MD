@@ -7,6 +7,8 @@ I HATE PLAN B
 
 Contact To ME:<br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thiraphat-DEV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Thiraphat-DEV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color="#fff">](https://www.linkedin.com/in/ThiraphatChorakhe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/BoatFamilys)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Thiraphat-DEV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Boaty)  
+<br />
+<a href="https://app.daily.dev/THIRAPHAT_DEV"><img src="https://api.daily.dev/devcards/bbf2a5971ec742f997838fb7a2d92285.png?r=bd1" width="400" alt="B0ATY's Dev Card"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-DEV&layout=compact)](https://github.com/Thiraphat-DEV/github-readme-stats)
 
