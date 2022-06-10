@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋, Thiraphat-DEV</h1>
 ![](https://web.facebook.com/thiraphat.boat/)
 
-I’m @Thiraphat-DEV I’m interested in New Technology And I’m currently learning  Frontend && Backend Developer
+I’m @Thiraphat-DEV I LOVE VIM I’m interested in New Technology And I’m currently learning  Frontend && Backend Developer
 I NEVER STOP LEARNING FOR TECH  I WATCHING TO COMEDY FOR FUN
 I HATE PLAN B
 
